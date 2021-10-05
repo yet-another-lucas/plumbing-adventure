@@ -1,5 +1,5 @@
 extends Node
-# le stats service
+# le stats service 
 # project settings > autoload
 
 export var maxim_health = 1 setget set_maxim_health
